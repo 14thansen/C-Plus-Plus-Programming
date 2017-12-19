@@ -4,13 +4,13 @@ This repository contains the programs I worked on while learning to code in C++.
 * Beginning the problem-solving process
 * Variables and constants
 * Completing the problem-solving process
-        - The selection structure
-        - More on the selection structure
-        - The repetition structure
-        - More on the repetition structure
-        - Value-returning functions
-        - Void functions
-        - One-dimensional arrays
-        - Two-dimensional arrays
-        - Strings
-        - Sequential access files
+* The selection structure
+* More on the selection structure
+* The repetition structure
+* More on the repetition structure
+* Value-returning functions
+* Void functions
+* One-dimensional arrays
+* Two-dimensional arrays
+* Strings
+* Sequential access files
